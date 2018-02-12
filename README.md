@@ -1,5 +1,5 @@
 # d3.js_titanic-data_udacity_visuvalization
-
+Please find the visuvalization here : http://aws-website-visuvalization-otptn.s3-website-us-east-1.amazonaws.com/
 Summary:
 
 This visualization shows the demographics of 891 of the 1317 passengers aboard the Titanic. Specifically, gender and class. There were more men than women, more third-class passengers than first class, and the most common age range was between 21 - 30. About 68% of the passengers on board perished. However, there is a large difference in the chance of survival across passenger class as well as in gender and whether one and a child. This visualization aims to emphasis the difference survival chance across categories, so that the viewers can compare it easily. This interactive chart allows the viewers to explore the category of interest.
